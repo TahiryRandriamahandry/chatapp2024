@@ -1,0 +1,73 @@
+
+.landing-page {
+    min-height: 100vh;
+    background: linear-gradient(360deg, #1890ff, #001529);
+    color: #fff;
+  }
+  
+ 
+  .landing-header {
+    display: flex;
+    align-items: center;
+    background: #001529;
+    padding: 0 24px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 8px;
+    color: #fff;
+  }
+  
+  
+  .landing-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 16px;
+  }
+  
+  .content-row {
+    text-align: center;
+  }
+  
+  .content-box {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    color: #000;
+  }
+  
+  .content-box h2 {
+    color: #001529;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  .buttons button {
+    margin: 0 10px;
+  }
+  
+  .call{
+    
+    text-align: center;
+    
+   
+  }
+ 
+  .landing-footer {
+    text-align: center;
+    padding: 20px 16px;
+    background: #001529;
+    color: #ccc;
+  }
+  
